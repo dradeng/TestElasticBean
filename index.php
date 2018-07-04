@@ -1,0 +1,3 @@
+<?php
+
+echo "Casino Scouts!";
